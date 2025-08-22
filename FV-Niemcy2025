@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Jak wystawić fakturę VAT do Niemiec? | faktury-vat.tk</title>
+  <meta name="description" content="Praktyczny poradnik jak wystawić fakturę VAT do klienta z Niemiec w 2025 roku. Sprawdź numer VAT, format, terminy." />
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      line-height: 1.7;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: #f9f9f9;
+    }
+    h1, h2, h3 {
+      color: #1a5276;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .affiliate {
+      background: #f1c40f;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 20px 0;
+      font-weight: bold;
+      text-align: center;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 0.9em;
+      color: #7f8c8d;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Jak wystawić fakturę VAT do Niemiec w 2025? [Krok po kroku]</h1>
+  <p><em>Ostatnia aktualizacja: 5 kwietnia 2025</em></p>
+
+  <p>Jeśli pracujesz jako freelancer z klientem z Niemiec, musisz wiedzieć, jak poprawnie wystawić fakturę VAT. W tym poradniku pokazujemy, co jest obowiązkowe, kiedy nie naliczasz VAT, i jak sprawdzić numer klienta.</p>
+
+  <<h2>Kiedy nie naliczam VAT do Niemiec?</h2>
+<p>Jeśli klient z Niemiec ma <strong>ważny numer VAT UE</strong>, <strong>nie naliczasz VAT</strong> na fakturze. To tzw. procedura Wstawkowa (reverse charge). Oznacza to, że to on odprowadza podatek w swoim kraju.</p>
+
+<p>Twoja faktura musi zawierać:</p>
+<ul>
+  <li>Nazwę i adres klienta</li>
+  <li>Jego numer VAT (np. DE276452187)</li>
+  <li>Informację: <em>"Usługa objęta procedurą Wstawkową – VAT naliczany przez nabywcę"</em></li>
+  <li>Brak stawki VAT</li>
+</ul>
+
+<h2>Jak sprawdzić numer VAT klienta?</h2>
+<p>Zawsze sprawdź numer przed wystawieniem faktury. Użyj oficjalnego narzędzia UE:</p>
+<p>➡️ <a href="https://ec.europa.eu/taxation_customs/vies/" target="_blank">https://ec.europa.eu/taxation_customs/vies/</a></p>
+<p>Wpisz numer (np. DE276452187) i sprawdź, czy jest aktywny.</p>
+
+<h2>Przykład faktury do Niemiec (2025)</h2>
+<p><strong>Numer faktury:</strong> FV/04/2025<br>
+<strong>Data wystawienia:</strong> 5.04.2025<br>
+<strong>Miejsce wystawienia:</strong> Warszawa<br>
+<strong>Sprzedawca:</strong> Jan K. (freelancer)<br>
+<strong>Nabywca:</strong> Max GmbH, Berlin<br>
+<strong>Numer VAT nabywcy:</strong> DE276452187<br>
+<strong>Opis usługi:</strong> Projekt graficzny strony internetowej<br>
+<strong>Kwota netto:</strong> 2000 zł<br>
+<strong>Kwota brutto:</strong> 2000 zł<br>
+<strong>Uwaga:</strong> Usługa objęta procedurą Wstawkową – VAT naliczany przez nabywcę.</p>
+
+<h2>Darmowe narzędzia do generowania faktur VAT</h2>
+<p>Nie musisz robić tego ręcznie. Użyj darmowych narzędzi, które same generują poprawny format:</p>
+<ul>
+  <li><a href="https://www.fakturowo.pl/partner" target="_blank">Fakturowo.pl</a> – prosty kreator, eksport do PDF, integracja z VAT UE</li>
+  <li><a href="https://aspiu.pl/partner" target="_blank">Aspiu.pl</a> – zaawansowane opcje dla freelancerów</li>
+  <li><a href="https://revolut.com/business/pl/invoice-generator/" target="_blank">Revolut Invoice Generator</a> – darmowy, szybki, bez rejestracji</li>
+</ul>
+
+<p><strong>Wskazówka:</strong> Zapisz fakturę w formacie PDF i prześlij klientowi. Zatrzymaj kopię na 5 lat (wymóg RODO + podatkowy).</p>>
+
+  <div class="affiliate">
+    ✅ <a href="https://www.fakturowo.pl/partner" target="_blank">Użyj Fakturowo — darmowe wystawianie faktur z eksportem do PDF</a>
+  </div>
+
+  <footer>
+    &copy; <script>document.write(new Date().getFullYear())</script> faktury-vat.tk | Anonimowy poradnik dla freelancerów
+  </footer>
+</body>
+</html>
